@@ -1,0 +1,6 @@
+{
+  "name": "ARYVOK - Expertise IT & Solutions Numériques",
+  "description": "ARYVOK accompagne les entreprises dans leur transformation digitale avec des services spécialisés: Formation, Bases de Données, Sécurité, Architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
